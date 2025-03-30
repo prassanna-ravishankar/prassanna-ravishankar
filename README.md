@@ -1,26 +1,24 @@
 [<img src="./header.gif" alt="👋 Hi there! I'm Prass" title="👋 Hi there! I'm Prass" />](https://www.prassanna.io)
 
-## 𝙷𝚎𝚢, 𝙸'𝚖 𝙿𝚛𝚊𝚜𝚜 🧠⚙️  
+## Hey, I'm Prass 🧠⚙️  
 ### ML Engineer. Researcher. Verse Writer.
 
-I specialize in machine learning engineering and research, focusing on making ML systems more efficient and accessible. When I'm not coding or researching, I write verses exploring musings and philosophy, and host podcasts discussing technology and its philosophical implications.
+I thrive on collaborative coding sessions, diving into fresh ideas, and exploring the uncharted territories of technology. My passion lies in the fusion of machine learning engineering and research, aiming to make ML systems more efficient and accessible. Beyond the code, I pen verses delving into musings and philosophy, and co-host the [**Feed Forward Podcast**](https://prassanna.io/podcasts/feed-forward/), where we navigate the AI midlife crisis, one episode at a time.
 
 ---
 
 ### 🚀 CURRENTLY
 
-- 🛠️ Building [**Ambi-Alert**](https://prassanna.io/projects/) – a smart web monitoring tool that tracks websites and alerts you when relevant changes occur.
-- ⚡ Recently developed [**Tracelet**](https://prassanna.io/projects/) – an automagic PyTorch metric exporter that seamlessly integrates with popular experiment tracking tools.
-- 📝 Published a [blog post on investing in MLOps at startups](https://prassanna.io/blog/2025-03-27-mlops-investment) (March 27, 2025).
-- 🎙️ Hosting the [**Mind & Machine Podcast**](https://prassanna.io/podcasts/) – conversations on machine learning, technology, and philosophical musings with industry experts and thought leaders.
-- 🔭 Working with [**Papercup**](https://github.com/papercup-ai) on AI dubbing systems.
+- 🛠️ **Vibing and Coding** on innovative projects, embracing spontaneous collaborations to bring fresh ideas to life.
+- 🎙️ Co-hosting the [**Feed Forward Podcast**](https://prassanna.io/podcasts/feed-forward/) – navigating the AI midlife crisis, one episode at a time.
+- 🔭 Collaborating with [**Papercup**](https://github.com/papercup-ai) on AI dubbing systems.
 
 ---
 
 ### 👨‍💻 BIO
 
-- 💬 Ask me about: MLOps, ML Infrastructure, or engineering.
-- 🤝 Open to collaborating on ML engineering projects.
+- 💬 Ask me about: MLOps, ML Infrastructure, engineering, or the latest idea I'm exploring.
+- 🤝 Always open to spontaneous coding sessions and brainstorming new concepts.
 - ✒️ Occasionally, I [write and recite poems](https://prassanna.io/verses/) exploring various themes and philosophies.
 
 ---
