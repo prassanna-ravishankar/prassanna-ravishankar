@@ -9,7 +9,9 @@ I specialize in machine learning engineering and research, focusing on making ML
 
 ### 🚀 CURRENTLY
 
-- 🛠️ **Vibing and Coding** on innovative projects, embracing spontaneous ideas and creative coding sessions.
+- 🛠️ **Vibe Coding** on innovative projects, embracing spontaneous ideas and creative coding sessions.
+  - 🔍 Developing [**Ambi-Alert**](https://github.com/prassanna-ravishankar/ambi-alert) – a powerful web monitoring tool that keeps you informed about topics that matter by monitoring relevant web pages and alerting you to meaningful changes.
+  - 📈 Creating [**Tracelet**](https://github.com/prassanna-ravishankar/tracelet) – an automagic PyTorch metric exporter that seamlessly integrates with popular experiment tracking tools.
 - 🎙️ Co-hosting the [**Feed Forward Podcast**](https://prassanna.io/podcasts/feed-forward/) – navigating the AI midlife crisis, one episode at a time.
 - 🔭 Working with [**Papercup**](https://www.papercup.com/) on AI dubbing systems to make video content accessible in multiple languages.
 
