@@ -3,15 +3,15 @@
 ## Hey, I'm Prass 🧠⚙️  
 ### ML Engineer. Researcher. Verse Writer.
 
-I thrive on collaborative coding sessions, diving into fresh ideas, and exploring the uncharted territories of technology. My passion lies in the fusion of machine learning engineering and research, aiming to make ML systems more efficient and accessible. Beyond the code, I pen verses delving into musings and philosophy, and co-host the [**Feed Forward Podcast**](https://prassanna.io/podcasts/feed-forward/), where we navigate the AI midlife crisis, one episode at a time.
+I specialize in machine learning engineering and research, focusing on making ML systems more efficient and accessible. Currently, I'm part of the team at [**Papercup**](https://www.papercup.com/), where we're revolutionizing video content accessibility through AI-powered dubbing. Beyond coding and research, I write verses exploring musings and philosophy, and co-host the [**Feed Forward Podcast**](https://prassanna.io/podcasts/feed-forward/), where we navigate the AI midlife crisis, one episode at a time.
 
 ---
 
 ### 🚀 CURRENTLY
 
-- 🛠️ **Vibing and Coding** on innovative projects, embracing spontaneous collaborations to bring fresh ideas to life.
+- 🛠️ **Vibing and Coding** on innovative projects, embracing spontaneous ideas and creative coding sessions.
 - 🎙️ Co-hosting the [**Feed Forward Podcast**](https://prassanna.io/podcasts/feed-forward/) – navigating the AI midlife crisis, one episode at a time.
-- 🔭 Collaborating with [**Papercup**](https://github.com/papercup-ai) on AI dubbing systems.
+- 🔭 Working with [**Papercup**](https://www.papercup.com/) on AI dubbing systems to make video content accessible in multiple languages.
 
 ---
 
