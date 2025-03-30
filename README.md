@@ -1,42 +1,45 @@
-[<img src="./header.gif" alt="👋 Hi there! I'm prass)" title="👋 Hi there! I'm  prass|https://prassanna.io)"/>](https://prassanna.io/)
+[<img src="./header.gif" alt="👋 Hi there! I'm Prass" title="👋 Hi there! I'm Prass" />](https://www.prassanna.io)
 
-##  𝙸'𝚖 𝚊 𝙵𝚞𝚕𝚕-𝚂𝚝𝚊𝚌𝚔 {𝚍𝚊𝚝𝚊, 𝚖𝚘𝚍𝚎𝚕, 𝚒𝚗𝚏𝚛𝚊} 𝙼𝚊𝚌𝚑𝚒𝚗𝚎 𝙻𝚎𝚊𝚛𝚗𝚒𝚗𝚐 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 
+## 𝙷𝚎𝚢, 𝙸'𝚖 𝙿𝚛𝚊𝚜𝚜 🧠⚙️  
+### ML Engineer. Researcher. Verse Writer.
 
+I specialize in machine learning engineering and research, focusing on making ML systems more efficient and accessible. When I'm not coding or researching, I write verses exploring musings and philosophy, and host podcasts discussing technology and its philosophical implications.
 
-### NOW
+---
 
-- 🏗️ Looking to build out [tascer](https://github.com/prassanna-ravishankar/tascer)
-- ⚡ Recently built [torchwebio](https://github.com/prassanna-ravishankar/torchwebio) and [python-productivity-stack](https://github.com/prassanna-ravishankar/python-productivity-stack)
-- ✍️ Recently wrote a [blog post on the fragmentation of Machine Learning frameworks](https://prassanna.io/blog/2022-10-07-ml-fragmentation)
-- 🔭 Working with [Papercup](https://github.com/papercup-ai)
-- 🌱 Currently learning GPTs with [nanoGPT](https://github.com/karpathy/nanoGPT)
+### 🚀 CURRENTLY
 
+- 🛠️ Building [**Ambi-Alert**](https://prassanna.io/projects/) – a smart web monitoring tool that tracks websites and alerts you when relevant changes occur.
+- ⚡ Recently developed [**Tracelet**](https://prassanna.io/projects/) – an automagic PyTorch metric exporter that seamlessly integrates with popular experiment tracking tools.
+- 📝 Published a [blog post on investing in MLOps at startups](https://prassanna.io/blog/2025-03-27-mlops-investment) (March 27, 2025).
+- 🎙️ Hosting the [**Mind & Machine Podcast**](https://prassanna.io/podcasts/) – conversations on machine learning, technology, and philosophical musings with industry experts and thought leaders.
+- 🔭 Working with [**Papercup**](https://github.com/papercup-ai) on AI dubbing systems.
 
-### BIO
+---
 
-- 💬 Ask me about MLOps, ML Infrastructure or engineering.
-- 👯 I’m looking to collaborate on ML engineering projects
-- ⚡ Unknown fact: I write and [recite poems](https://www.youtube.com/watch?v=o-C2xof7PKc) occassionally. 
+### 👨‍💻 BIO
 
+- 💬 Ask me about: MLOps, ML Infrastructure, or engineering.
+- 🤝 Open to collaborating on ML engineering projects.
+- ✒️ Occasionally, I [write and recite poems](https://prassanna.io/verses/) exploring various themes and philosophies.
 
-### 📫 CONTACT
+---
 
-[<img src="./socials/linkedin.png" height="40em" align="center" alt="Follow the-nomadic-coder on LinkedIn" title="Follow the-nomadic-coder on LinkedIn"/>](https://www.linkedin.com/in/the-nomadic-coder/)
-[<img src="./socials/twitter.png" height="40em" align="center" alt="Follow thenomadiccoder on Twitter" title="Follow thenomadiccoder on Twitter"/>](https://twitter.com/thenomadiccoder)
-[<img src="./socials/instagram.png" height="40em" align="center" alt="Follow ganeshindahouse on Instagram" title="Follow ganeshindahouse on LinkedIn"/>](https://instagram.com/ganeshindahouse)
+### 📫 CONNECT
+
+[<img src="./socials/linkedin.png" height="40em" alt="LinkedIn" title="LinkedIn" />](https://www.linkedin.com/in/the-nomadic-coder/)
+[<img src="./socials/twitter.png" height="40em" alt="Twitter" title="Twitter" />](https://twitter.com/thenomadiccoder)
+[<img src="./socials/instagram.png" height="40em" alt="Instagram" title="Instagram" />](https://instagram.com/ganeshindahouse)
+
+---
 
 <!--
-
-**prassanna-ravishankar/prassanna-ravishankar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+**prassanna-ravishankar/prassanna-ravishankar** is a ✨ _special_ ✨ repository because its README appears on your GitHub profile.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
