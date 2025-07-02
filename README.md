@@ -3,23 +3,23 @@
 ## Hey, I'm Prass 🧠⚙️  
 ### ML Engineer. Researcher. Verse Writer.
 
-I specialize in machine learning engineering and research, focusing on making ML systems more efficient and accessible. Currently, I'm part of the team at [**Papercup**](https://www.papercup.com/), where we're revolutionizing video content accessibility through AI-powered dubbing. Beyond coding and research, I write verses exploring musings and philosophy, and co-host the [**Feed Forward Podcast**](https://prassanna.io/podcasts/feed-forward/), where we navigate the AI midlife crisis, one episode at a time.
+I specialize in machine learning engineering and research, focusing on making ML systems more efficient and accessible. Currently, I'm part of the team at [**Scale AI**](https://scale.com), where I'm building ML infrastructure for the agentic web. Beyond coding and research, I write verses exploring musings and philosophy, and co-host the [**Feed Forward Podcast**](https://prassanna.io/podcasts/feed-forward/), where we navigate the AI midlife crisis, one episode at a time.
 
 ---
 
 ### 🚀 CURRENTLY
 
 - 🛠️ **Vibe Coding** on innovative projects, embracing spontaneous ideas and creative coding sessions.
-  - 🔍 Developing [**Ambi-Alert**](https://github.com/prassanna-ravishankar/ambi-alert) – a powerful web monitoring tool that keeps you informed about topics that matter by monitoring relevant web pages and alerting you to meaningful changes.
-  - 📈 Creating [**Tracelet**](https://github.com/prassanna-ravishankar/tracelet) – an automagic PyTorch metric exporter that seamlessly integrates with popular experiment tracking tools.
+  - 🤖 Developing [**Torale**](https://app.torale.ai/) – AI-powered web monitoring platform that tracks topics and alerts you when meaningful changes occur across the internet.
+  - 🔐 Creating [**Phlow**](https://github.com/prassanna-ravishankar/phlow) – JWT-based authentication framework for AI agent networks, making agent-to-agent communication secure and effortless.
+  - 🌍 Building [**CloudRegion**](https://github.com/prassanna-ravishankar/cloudregion) – intuitive cloud region mapping across AWS, Azure, and Google Cloud Platform.
 - 🎙️ Co-hosting the [**Feed Forward Podcast**](https://prassanna.io/podcasts/feed-forward/) – navigating the AI midlife crisis, one episode at a time.
-- 🔭 Working with [**Papercup**](https://www.papercup.com/) on AI dubbing systems to make video content accessible in multiple languages.
 
 ---
 
 ### 👨‍💻 BIO
 
-- 💬 Ask me about: MLOps, ML Infrastructure, engineering, or the latest idea I'm exploring.
+- 💬 Ask me about: MLOps, AI agent infrastructure, cloud development tools, or the latest idea I'm exploring.
 - 🤝 Always open to spontaneous coding sessions and brainstorming new concepts.
 - ✒️ Occasionally, I [write and recite poems](https://prassanna.io/verses/) exploring various themes and philosophies.
 
@@ -36,9 +36,9 @@ I specialize in machine learning engineering and research, focusing on making ML
 <!--
 **prassanna-ravishankar/prassanna-ravishankar** is a ✨ _special_ ✨ repository because its README appears on your GitHub profile.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🔭 I'm currently working on ...
+- 🌱 I'm currently learning ...
+- 👯 I'm looking to collaborate on ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
